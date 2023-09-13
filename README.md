@@ -16,6 +16,7 @@
 -   Realización de electrocardiogramas de forma regular
 -   Pruebas de vista y oído anuales
 -   Controles de peso
+-   Incorporar una rutina de ejercicio físico regular.
 
 ### Preocupaciones del profesional de atención 
 - Desarrollar diabetes
