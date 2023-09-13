@@ -1,9 +1,11 @@
 ## Ben
 
 ### Necesidades 
-- Pastillas para su afección cardíaca
-- Gotas para los ojos.
--  Fisioterapia para favorecer el desarrollo de la motricidad y régimen de ejercicios.
+-   Pastillas para su afección cardíaca
+-   Gotas para los ojos.
+-   Gafas bifocales.
+-   Baha como herramienta de ayuda auditiva.
+-   Fisioterapia para favorecer el desarrollo de la motricidad y régimen de ejercicios.
 -   Dietista para supervisar su dieta.
 -   Logopedia y lenguaje para su habla.
 -   Adaptaciones apropiadas para facilitar el uso de Internet en una tableta o PC escolar (tiene dificultades para leer y escribir, por lo que necesita un software activado por voz).
