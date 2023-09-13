@@ -12,3 +12,9 @@
 -   Comunicación regular entre cuidadores (familia, colegio, médicos).
 -   Ayuda para aprender a organizarse (es decir, una aplicación con recordatorios de horarios).
 -   Información sobre estilos de vida saludables para su familia.
+
+### Preocupaciones del profesional de atención 
+- Desarrollar diabetes
+- Desarrollar problemas de movilidad por falta de ejercicio regular
+- Desarrollar complicaciones relacionadas con el corazón
+- Los servicios comunitarios de fisioterapia y terapia del habla y el lenguaje no están disponibles en las escuelas secundarias (falta apoyo continuo para cuando haga la transición a la educación secundaria).
