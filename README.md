@@ -17,6 +17,7 @@
 -   Pruebas de vista y oído anuales
 -   Controles de peso
 -   Incorporar una rutina de ejercicio físico regular.
+-   Reducir su ansiedad
 
 ### Preocupaciones del profesional de atención 
 - Desarrollar diabetes
