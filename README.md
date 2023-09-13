@@ -12,6 +12,10 @@
 -   Comunicación regular entre cuidadores (familia, colegio, médicos).
 -   Ayuda para aprender a organizarse (es decir, una aplicación con recordatorios de horarios).
 -   Información sobre estilos de vida saludables para su familia.
+-   Mediciones de azúcar en sangre
+-   Realización de electrocardiogramas de forma regular
+-   Pruebas de vista y oído anuales
+-   Controles de peso
 
 ### Preocupaciones del profesional de atención 
 - Desarrollar diabetes
