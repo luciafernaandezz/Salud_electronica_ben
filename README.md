@@ -24,3 +24,5 @@
 - Desarrollar problemas de movilidad por falta de ejercicio regular
 - Desarrollar complicaciones relacionadas con el corazón
 - Los servicios comunitarios de fisioterapia y terapia del habla y el lenguaje no están disponibles en las escuelas secundarias (falta apoyo continuo para cuando haga la transición a la educación secundaria).
+
+##https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/
