@@ -25,4 +25,7 @@
 - Desarrollar complicaciones relacionadas con el corazón
 - Los servicios comunitarios de fisioterapia y terapia del habla y el lenguaje no están disponibles en las escuelas secundarias (falta apoyo continuo para cuando haga la transición a la educación secundaria).
 
-##https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/
+### Soluciones
+Artículo con herramientas para niños con Síndrome de Down (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/)
+App para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta)
+
