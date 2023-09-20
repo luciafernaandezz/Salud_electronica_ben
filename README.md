@@ -26,7 +26,7 @@
 - Los servicios comunitarios de fisioterapia y terapia del habla y el lenguaje no están disponibles en las escuelas secundarias (falta apoyo continuo para cuando haga la transición a la educación secundaria).
 
 ### Soluciones
-Artículo con herramientas para niños con Síndrome de Down (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/)
-App para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta)
-App para la administración de medicación, control la preisón arterial y peso (https://www.tevafarmacia.es/recursos/herramientas/medisafe-app-para-no-olvidarnos-de-la-medicacion). Se puede añadir a otros usuario y notificar en el caso de que Ben se saltase la toma de su medicación, por último también podríamos controlar su sobrepeso
-
+- Artículo con herramientas para niños con Síndrome de Down (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/)
+- App para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta)
+- App para la administración de medicación, control la preisón arterial y peso (https://www.tevafarmacia.es/recursos/herramientas/medisafe-app-para-no-olvidarnos-de-la-medicacion). Se puede añadir a otros usuario y notificar en el caso de que Ben se saltase la toma de su medicación, por último también podríamos controlar su sobrepeso
+- Localizador de objetos mediante Bluetooth Chipoo One 2020. Se trata de un dispositivo circular de 37 mm de diametro que se puede acoplar a cualquier objeto que se pierda fácilmente y quieras encontrar de manera rápida. Tiene un diseño llamativo y se controla a través de una aplicación móvil apta para Android e iOS, además, se puede controlar mediante voz a través de Alexa, Google Assistant y Siri.
