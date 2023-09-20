@@ -28,7 +28,7 @@
 ### Soluciones
 - Artículo con herramientas para niños con Síndrome de Down (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/):
   - Dificultades para leer y escribir
-                                        -- SGD(Speech-generating device): son sistemas electrónicos de comunicación aumentativa y alternativa (AAC) que se utilizan para complementar o reemplazar el habla o la escritura.
+  -- SGD(Speech-generating device): son sistemas electrónicos de comunicación aumentativa y alternativa (AAC) que se utilizan para complementar o reemplazar el habla o la escritura.
 Los SGD sintetizados pueden permitir múltiples métodos de creación de mensajes que se pueden usar individualmente o en combinación: los mensajes se pueden crear a partir de letras, palabras, frases, oraciones, imágenes o símbolos. Con el habla sintetizada, existe una capacidad de almacenamiento virtualmente ilimitada para mensajes con pocas demandas de espacio en la memoria; lo cual sería adecuado para nuestro caso particular ya que al ser un niño de 9 años puede tener dificultades tecnológicas y emplear un dispositivo sencillo y de características pobres en cuanto al sistema operativo o capacidad de memoria.
 Además, están disponibles en muchos idiomas, y el usuario puede manipular los parámetros del motor, como la velocidad del habla, el rango de tono, el género, los patrones de estrés, las pausas y las excepciones de pronunciación.
 Aplicaciones como SpeakIt! o Assistive Express para iPhone proporcionan una forma económica de usar un dispositivo generador de voz sin tener que visitar el consultorio de un médico o aprender a usar maquinaria especializada.
