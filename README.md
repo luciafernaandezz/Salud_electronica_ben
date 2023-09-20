@@ -30,6 +30,7 @@ Artículo con herramientas para niños con Síndrome de Down (https://www.ncbi.n
 - SGD: instrumento para mejora la mejora del habla (mejora de la comunicación)
 - PECS: intrumento para la ampliación de las habilidades lingüísticas y de la comunicación social
 - MAKATON: instrumento para el desarrollo del lenguaje y la comunicación (dominio de señales)
+- PCS: símbolos de comunicación con imágenes para mejorar percepción visual de Ben.
 App para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta)
 
 
