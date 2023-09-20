@@ -39,7 +39,7 @@ Se trata de una práctica basada en la evidencia, es sustancial y continúa ampl
 Se han realizado varias investigaciones con este tipo de dispositivos en edades infantiles demostrándose su eficacia. (TRL MEDIO-ALTO)
 https://pubmed.ncbi.nlm.nih.gov/23785187/
 https://pecs-spain.com/el-sistema-de-comunicacion-por-el-intercambio-de-imagenes-pecs/
-
+   - - https://makaton.org/TMC/TMC/About_Makaton/Help_with_Downs_syndrome_and_communication.aspx
 - Runtastic Balance, una app para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta). Permite llevar un control sobre lo que el niño come. (TRL avanzado)
 - App para la administración de medicación, control la preisón arterial y peso (https://www.tevafarmacia.es/recursos/herramientas/medisafe-app-para-no-olvidarnos-de-la-medicacion). Se puede añadir a otros usuario y notificar en el caso de que Ben se saltase la toma de su medicación, por último también podríamos controlar su sobrepeso (TRL avanzado) 
 - Localizador de objetos mediante Bluetooth Chipolo One 2020. Se trata de un dispositivo circular de 37 mm de diametro que se puede acoplar a cualquier objeto que se pierda fácilmente y quieras encontrar de manera rápida. Tiene un diseño llamativo y se controla a través de una aplicación móvil apta para Android e iOS, además, se puede controlar mediante voz a través de Alexa, Google Assistant y Siri. (TRL avanzado)
