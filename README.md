@@ -28,5 +28,5 @@
 ### Soluciones
 Artículo con herramientas para niños con Síndrome de Down (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5948828/)
 App para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta)
-
+App para la administración de medicación, control la preisón arterial y peso (https://www.tevafarmacia.es/recursos/herramientas/medisafe-app-para-no-olvidarnos-de-la-medicacion). Se puede añadir a otros usuario y notificar en el caso de que Ben se saltase la toma de su medicación, por último también podríamos controlar su sobrepeso
 
