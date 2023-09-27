@@ -48,7 +48,7 @@ https://pubmed.ncbi.nlm.nih.gov/23785187/
 https://pecs-spain.com/el-sistema-de-comunicacion-por-el-intercambio-de-imagenes-pecs/
      - https://makaton.org/TMC/TMC/About_Makaton/Help_with_Downs_syndrome_and_communication.aspx
 - Runtastic Balance, una app para controlar la dieta que puede ser útil de diversas maneras: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta).(TRL avanzado)
- - Registro de alimentos: gracias a la introducción de todos los alimentos que consume a lo largo del día. Ayudando a ser consciente de lo que come y mantener un control
+  - Registro de alimentos: gracias a la introducción de todos los alimentos que consume a lo largo del día. Ayudando a ser consciente de lo que come y mantener un control
   - Base de datos de alimentos: para la introducción de los alimentos, la aplicación cuenta con una base de datos previa que se descarga al mismo tiempo que la aplicación y que contiene las calorías y nutrientes de cada alimento
   - Contador de calorías y seguimiento de nutrientes: La aplicación permite contar las calorías y los nutrientes para conseguir una dieta balanceada y orientada a los objetivos.
   - Planificación de comidas: Nos permite tener un horario para planificar la comidas y no comer lo primero que pillemos.
