@@ -52,7 +52,8 @@ https://pecs-spain.com/el-sistema-de-comunicacion-por-el-intercambio-de-imagenes
   - Base de datos de alimentos: para la introducción de los alimentos, la aplicación cuenta con una base de datos previa que se descarga al mismo tiempo que la aplicación y que contiene las calorías y nutrientes de cada alimento
   - Contador de calorías y seguimiento de nutrientes: La aplicación permite contar las calorías y los nutrientes para conseguir una dieta balanceada y orientada a los objetivos.
   - Planificación de comidas: Nos permite tener un horario para planificar la comidas y no comer lo primero que pillemos.
-  - Recomendaciones de recetas saludables: A menudo ofrece consejos y recetas saludables, que puede ser de utilidad si nos quedamos sin ideas. 
+  - Recomendaciones de recetas saludables: A menudo ofrece consejos y recetas saludables, que puede ser de utilidad si nos quedamos sin ideas.
+  - Gráficos y estadísticas: La app va proporcionando gráficos y estadísticas que permiten visualizar el progreso a lo largo del tiempo. Esto nos ayuda a comprobar que el cambio de hábitos alimenticias está siendo satisfactorio y si no es así ayudarnos a realizar los ajustes necesarios para estar más cerca de nuestro objetivo. 
 - La aplicación "Medisafe" es una herramienta útil para la administración de medicación, control de la presión arterial y el peso de varias maneras: (https://www.tevafarmacia.es/recursos/herramientas/medisafe-app-para-no-olvidarnos-de-la-medicacion)(TRL avanzado) :
 - - Recordatorio de medicación: La aplicación cuenta con un sistema de alertas que lanza avisos cada vez que toca tomar la medicación, así como su posología
   - Registro de medicación: La aplicación permite introducir las medicinas, el horario en el que te las debes tomar, las dosis y la frecuencia
