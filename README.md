@@ -1,4 +1,11 @@
 ## Ben
+Ben tiene síndrome de down. Vive en una familia con dos hermanos más y unos padres que trabajan. 
+Va a primaria y recibe apoyo de asistentes de enseñanza. Además tiene otras afecciones como: 
+- Defecto del septo atrioventricular (AVSDI)
+- Cataratas bilaterales leves
+- Pérdida de audición
+- Retraso en habilidades motoras, le es muy difícil escribir
+- Sobrepeso
 
 ### Necesidades 
 -   Pastillas para su afección cardíaca
