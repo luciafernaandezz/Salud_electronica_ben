@@ -46,9 +46,13 @@ Se trata de una práctica basada en la evidencia, es sustancial y continúa ampl
 Se han realizado varias investigaciones con este tipo de dispositivos en edades infantiles demostrándose su eficacia. (TRL MEDIO-ALTO)
 https://pubmed.ncbi.nlm.nih.gov/23785187/
 https://pecs-spain.com/el-sistema-de-comunicacion-por-el-intercambio-de-imagenes-pecs/
-   - - https://makaton.org/TMC/TMC/About_Makaton/Help_with_Downs_syndrome_and_communication.aspx
-- Runtastic Balance, una app para controlar la dieta: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta).
-Nuestro perfil tiene sobrepeso y diabetes, por lo tanto, es necesario llevar llevar un control sobre lo que el niño come para evitar que tenga picos de glucosa y que siga aumentando su peso. Con esta aplicación nos permite introducir la comida que se toma a lo largo del día y evitar estas afecciones.  (TRL avanzado)
+     - https://makaton.org/TMC/TMC/About_Makaton/Help_with_Downs_syndrome_and_communication.aspx
+- Runtastic Balance, una app para controlar la dieta que puede ser útil de diversas maneras: (https://androidphoria.com/aplicaciones/runtastic-balance-aplicacion-dieta).(TRL avanzado)
+- - Registro de alimentos: gracias a la introducción de todos los alimentos que consume a lo largo del día. Ayudando a ser consciente de lo que come y mantener un control
+  - Base de datos de alimentos: para la introducción de los alimentos, la aplicación cuenta con una base de datos previa que se descarga al mismo tiempo que la aplicación y que contiene las calorías y nutrientes de cada alimento
+  - Contador de calorías y seguimiento de nutrientes: La aplicación permite contar las calorías y los nutrientes para conseguir una dieta balanceada y orientada a los objetivos.
+  - Planificación de comidas: Nos permite tener un horario para planificar la comidas y no comer lo primero que pillemos.
+  - Recomendaciones de recetas saludables: A menudo ofrece consejos y recetas saludables, que puede ser de utilidad si nos quedamos sin ideas. 
 - La aplicación "Medisafe" es una herramienta útil para la administración de medicación, control de la presión arterial y el peso de varias maneras: (https://www.tevafarmacia.es/recursos/herramientas/medisafe-app-para-no-olvidarnos-de-la-medicacion)(TRL avanzado) :
 - - Recordatorio de medicación: La aplicación cuenta con un sistema de alertas que lanza avisos cada vez que toca tomar la medicación, así como su posología
   - Registro de medicación: La aplicación permite introducir las medicinas, el horario en el que te las debes tomar, las dosis y la frecuencia
